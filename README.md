@@ -406,4 +406,4 @@ public double calculateAngle(double x1, double y1, double x2, double y2) {
 
 #### 有帮助到您，可以给个打赏哦~~，谢谢哦
 
-![](https://github.com/liouyang/GoldMining/blob/main/video/code.jpg)
+![](https://github.com/liouyang/GoldMining/blob/main/video/code.jpg){ width=50% height=auto }
